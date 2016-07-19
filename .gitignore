@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+slot
+sig
+db.sqlite3
+.DS_Store
+testphp.php
+testhtml.html
+html
